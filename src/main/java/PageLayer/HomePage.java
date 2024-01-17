@@ -7,5 +7,8 @@ public class HomePage {
 		System.out.println("validate Home Page title");
 	}
 	
-	
+	public void geturl()
+	{
+		System.out.println("validate Home Page Url");
+	}
 }

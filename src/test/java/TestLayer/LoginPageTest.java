@@ -12,8 +12,12 @@ public class LoginPageTest {
 	
 		HomePage homePage =new HomePage();
 		homePage.getTitle();
+<<<<<<< HEAD
 		
 		PIMPage pIMPage =new PIMPage();
 		pIMPage.getUrl();
+=======
+		homePage.geturl();
+>>>>>>> 063e1d2eee39d11a5c3ead0c22516c2306c21489
 	}
 }
