@@ -11,5 +11,6 @@ public class LoginPageTest {
 	
 		HomePage homePage =new HomePage();
 		homePage.getTitle();
+		homePage.geturl();
 	}
 }
