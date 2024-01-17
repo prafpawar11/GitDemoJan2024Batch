@@ -2,6 +2,7 @@ package TestLayer;
 
 import PageLayer.HomePage;
 import PageLayer.LoginPage;
+import PageLayer.PIMPage;
 
 public class LoginPageTest {
 
@@ -11,5 +12,8 @@ public class LoginPageTest {
 	
 		HomePage homePage =new HomePage();
 		homePage.getTitle();
+		
+		PIMPage pIMPage =new PIMPage();
+		pIMPage.getUrl();
 	}
 }
